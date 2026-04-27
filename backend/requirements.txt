@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+httpx
+beautifulsoup4
+playwright
+PyPDF2
+python-docx
+python-dotenv
